@@ -1,3 +1,3 @@
 import subprocess as sub
 
-sub.run('su')
+sub.run('exit')
